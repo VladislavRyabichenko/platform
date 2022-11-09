@@ -1,0 +1,27 @@
+/* eslint-disable no-unused-vars */
+export enum FormType {
+  CHART = 'CHART',
+  INPUT_FIELD = 'INPUT_FIELD',
+  ENTRY_DATE = 'ENTRY_DATE',
+  TAB_SIDE = 'TAB_SIDE',
+  TAB_STATUS = 'TAB_STATUS',
+  TAB_INSTRUMENT_TYPE = 'TAB_INSTRUMENT_TYPE',
+  TAB_OPTION_TYPE = 'TAB_OPTION_TYPE',
+  TEXTAREA_COMMENTS = 'TEXTAREA_COMMENTS',
+  INPUT_SELECT = 'INPUT_SELECT',
+  ATTACHMENTS = 'ATTACHMENTS',
+  INPUT_TAB = 'INPUT_TAB'
+}
+
+export type Type =
+  FormType.CHART |
+  FormType.INPUT_FIELD |
+  FormType.ENTRY_DATE |
+  FormType.TAB_STATUS |
+  FormType.TAB_SIDE |
+  FormType.TAB_INSTRUMENT_TYPE |
+  FormType.TAB_OPTION_TYPE |
+  FormType.TEXTAREA_COMMENTS |
+  FormType.INPUT_SELECT |
+  FormType.ATTACHMENTS |
+  FormType.INPUT_TAB

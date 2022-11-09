@@ -1,0 +1,552 @@
+[
+  {
+    "ranking": 1,
+    "name": {
+      "nation": "albania",
+      "text": "Sancho Maudiem",
+      "isVerified": true
+    },
+    "numberOfTrade": "24",
+    "winRate": "+15.33%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$12,390",
+      "percentage": "+605.33%"
+    },
+    "todayPL": {
+      "trends": "up",
+      "currency": "$12,390",
+      "percentage": "+15.33%"
+    },
+    "followers": "1,403",
+    "performance": "up"
+  },
+  {
+    "ranking": 2,
+    "name": {
+      "nation": "australia",
+      "text": "Aurellio Mercurry",
+      "isVerified": true
+    },
+    "numberOfTrade": "10",
+    "winRate": "+11.20%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$12,390",
+      "percentage": "+52.32%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "-12.29%"
+    },
+    "followers": "1,340",
+    "performance": "down"
+  },
+  {
+    "ranking": 3,
+    "name": {
+      "nation": "china",
+      "text": "Zaniollo Manda",
+      "isVerified": false
+    },
+    "numberOfTrade": "12",
+    "winRate": "+10.19%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$12,390",
+      "percentage": "+59.52%"
+    },
+    "todayPL": {
+      "trends": "up",
+      "currency": "$12,390",
+      "percentage": "+15.33%"
+    },
+    "followers": "1,212",
+    "performance": "up"
+  },
+  {
+    "ranking": 4,
+    "name": {
+      "nation": "bulgaria",
+      "text": "Sancho Maudiem",
+      "isVerified": true
+    },
+    "numberOfTrade": "12",
+    "winRate": "+10.19%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$12,390",
+      "percentage": "+108.94%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "-14.20%"
+    },
+    "followers": "1,433",
+    "performance": "up"
+  },
+  {
+    "ranking": 5,
+    "name": {
+      "nation": "united-kingdom",
+      "text": "Imanuel Macron",
+      "isVerified": false
+    },
+    "numberOfTrade": "6",
+    "winRate": "+12.19%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$2,432",
+      "percentage": "+185.36%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$2,432",
+      "percentage": "-20.10%"
+    },
+    "followers": "1,103",
+    "performance": "down"
+  },
+  {
+    "ranking": 6,
+    "name": {
+      "nation": "united-kingdom",
+      "text": "Dzoko Widowo",
+      "isVerified": false
+    },
+    "numberOfTrade": "11",
+    "winRate": "+8.20%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$1,204",
+      "percentage": "+183.10%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "+13.28%"
+    },
+    "followers": "4,933",
+    "performance": "up"
+  },
+  {
+    "ranking": 7,
+    "name": {
+      "nation": "bulgaria",
+      "text": "Malic Wihomo",
+      "isVerified": true
+    },
+    "numberOfTrade": "14",
+    "winRate": "+23.29%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$1,721",
+      "percentage": "+181.63%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "-10.52%"
+    },
+    "followers": "840",
+    "performance": "down"
+  },
+  {
+    "ranking": 8,
+    "name": {
+      "nation": "china",
+      "text": "Sancho Maudiem",
+      "isVerified": true
+    },
+    "numberOfTrade": "15",
+    "winRate": "+32.21%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$12,390",
+      "percentage": "+108.94%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "-14.20%"
+    },
+    "followers": "1,433",
+    "performance": "up"
+  },
+  {
+    "ranking": 9,
+    "name": {
+      "nation": "united-kingdom",
+      "text": "Imanuel Macron",
+      "isVerified": true
+    },
+    "numberOfTrade": "25",
+    "winRate": "+10.19%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$3,202",
+      "percentage": "+58.36%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "-20.10%"
+    },
+    "followers": "1,103",
+    "performance": "down"
+  },
+  {
+    "ranking": 10,
+    "name": {
+      "nation": "bulgaria",
+      "text": "Dzoko Widowo",
+      "isVerified": false
+    },
+    "numberOfTrade": "24",
+    "winRate": "+8.20%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$3,202",
+      "percentage": "+53.10%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "+13.28%"
+    },
+    "followers": "4,933",
+    "performance": "up"
+  },
+  {
+    "ranking": 11,
+    "name": {
+      "nation": "china",
+      "text": "Malic Wihomo",
+      "isVerified": true
+    },
+    "numberOfTrade": "14",
+    "winRate": "+10.19%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$1,232",
+      "percentage": "+581.63%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "-10.52%"
+    },
+    "followers": "840",
+    "performance": "down"
+  },
+  {
+    "ranking": 12,
+    "name": {
+      "nation": "china",
+      "text": "Sancho Maudiem",
+      "isVerified": true
+    },
+    "numberOfTrade": "16",
+    "winRate": "+32.21%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$12,390",
+      "percentage": "+108.94%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "-14.20%"
+    },
+    "followers": "1,433",
+    "performance": "up"
+  },
+  {
+    "ranking": 13,
+    "name": {
+      "nation": "bulgaria",
+      "text": "Imanuel Macron",
+      "isVerified": false
+    },
+    "numberOfTrade": "25",
+    "winRate": "+10.19%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$1,721",
+      "percentage": "+585.36%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "-20.10%"
+    },
+    "followers": "1,103",
+    "performance": "down"
+  },
+  {
+    "ranking": 14,
+    "name": {
+      "nation": "bulgaria",
+      "text": "Dzoko Widowo",
+      "isVerified": false
+    },
+    "numberOfTrade": "21",
+    "winRate": "+23.29%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$1,232",
+      "percentage": "+583.10%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "+13.28%"
+    },
+    "followers": "4,933",
+    "performance": "up"
+  },
+  {
+    "ranking": 15,
+    "name": {
+      "nation": "united-kingdom",
+      "text": "Malic Wihomo",
+      "isVerified": false
+    },
+    "numberOfTrade": "64",
+    "winRate": "+10.19%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$1,232",
+      "percentage": "+581.63%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "-10.52%"
+    },
+    "followers": "840",
+    "performance": "down"
+  },
+  {
+    "ranking": 16,
+    "name": {
+      "nation": "united-states",
+      "text": "Sancho Maudiem",
+      "isVerified": true
+    },
+    "numberOfTrade": "5",
+    "winRate": "+10.19%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$12,390",
+      "percentage": "+108.94%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "-14.20%"
+    },
+    "followers": "1,433",
+    "performance": "up"
+  },
+  {
+    "ranking": 17,
+    "name": {
+      "nation": "denmark",
+      "text": "Imanuel Macron",
+      "isVerified": false
+    },
+    "numberOfTrade": "23",
+    "winRate": "+8.20%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$1,232",
+      "percentage": "+585.36%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "-20.10%"
+    },
+    "followers": "1,103",
+    "performance": "down"
+  },
+  {
+    "ranking": 18,
+    "name": {
+      "nation": "bulgaria",
+      "text": "Alexis Noah",
+      "isVerified": true
+    },
+    "numberOfTrade": "42",
+    "winRate": "+12.32%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$1,721",
+      "percentage": "+583.10%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "+13.28%"
+    },
+    "followers": "4,933",
+    "performance": "up"
+  },
+  {
+    "ranking": 19,
+    "name": {
+      "nation": "united-kingdom",
+      "text": "Malic Wihomo",
+      "isVerified": false
+    },
+    "numberOfTrade": "21",
+    "winRate": "+10.19%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$1,232",
+      "percentage": "+581.63%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "-10.52%"
+    },
+    "followers": "840",
+    "performance": "down"
+  },
+  {
+    "ranking": 20,
+    "name": {
+      "nation": "united-kingdom",
+      "text": "Sancho Maudiem",
+      "isVerified": true
+    },
+    "numberOfTrade": "11",
+    "winRate": "+12.32%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$12,390",
+      "percentage": "+108.94%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "-14.20%"
+    },
+    "followers": "1,433",
+    "performance": "up"
+  },
+  {
+    "ranking": 21,
+    "name": {
+      "nation": "bulgaria",
+      "text": "Imanuel Macron",
+      "isVerified": true
+    },
+    "numberOfTrade": "22",
+    "winRate": "+10.19%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$1,232",
+      "percentage": "+55.36%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "-20.10%"
+    },
+    "followers": "1,103",
+    "performance": "down"
+  },
+  {
+    "ranking": 22,
+    "name": {
+      "nation": "united-states",
+      "text": "Dzoko Widowo",
+      "isVerified": true
+    },
+    "numberOfTrade": "41",
+    "winRate": "+10.33%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$3,202",
+      "percentage": "+53.10%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "+13.28%"
+    },
+    "followers": "4,933",
+    "performance": "up"
+  },
+  {
+    "ranking": 23,
+    "name": {
+      "nation": "bulgaria",
+      "text": "Samuel Zackerburg",
+      "isVerified": true
+    },
+    "numberOfTrade": "12",
+    "winRate": "+12.32%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$3,202",
+      "percentage": "+51.63%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "-10.52%"
+    },
+    "followers": "840",
+    "performance": "down"
+  },
+  {
+    "ranking": 24,
+    "name": {
+      "nation": "united-states",
+      "text": "Ziki Anderson",
+      "isVerified": true
+    },
+    "numberOfTrade": "31",
+    "winRate": "+43.19%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$1,232",
+      "percentage": "+81.63%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "-10.52%"
+    },
+    "followers": "840",
+    "performance": "down"
+  },
+  {
+    "ranking": 25,
+    "name": {
+      "nation": "bulgaria",
+      "text": "Andrew Garfield",
+      "isVerified": true
+    },
+    "numberOfTrade": "43",
+    "winRate": "+12.19%",
+    "totalPL": {
+      "trends": "up",
+      "currency": "$1,432",
+      "percentage": "+81.63%"
+    },
+    "todayPL": {
+      "trends": "down",
+      "currency": "$12,390",
+      "percentage": "-10.52%"
+    },
+    "followers": "840",
+    "performance": "down"
+  }
+]
